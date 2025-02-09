@@ -11,8 +11,8 @@ Este repositório contém um sistema completo para gerenciamento de posts, compo
 ## Documentação completa front e back
 ## 📚 Documentação completa front e back
 
-- [🖥️ Frontend](./frontend/README.md)
-- [🔙 Backend](./backend/README.md)
+- [🖥️ Frontend](https://github.com/MonicaAlvesP/infraConnect-frontend/blob/1d125ca51fa50d1023a4b93bc46538a278d26355/README.md)
+- [🔙 Backend](https://github.com/MonicaAlvesP/infraConnect-backend/blob/1f557018f6ab53b69cc6efb4dd2600ac02b94d66/README.md)
 
 ## 📊 Diagrama do Banco de Dados
 <img src="https://www.mermaidchart.com/raw/28ae7d95-3261-4898-842e-73884e32e234?theme=light&version=v0.1&format=svg" alt="Diagrama do Banco de Dados" width="300">
