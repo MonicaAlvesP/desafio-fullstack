@@ -4,7 +4,7 @@ Este repositório contém um sistema completo para gerenciamento de posts, compo
 
 ## 🔧 Tecnologias Utilizadas
 - **Frontend**: Next.js, Sass, Axios
-- **Backend**: Django, PostgreSQL
+- **Backend**: Django
 - **Banco de Dados**: PostgreSQL
 - **Containerização**: Docker e Docker Compose
 
