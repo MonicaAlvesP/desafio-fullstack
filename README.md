@@ -8,7 +8,6 @@ Este repositório contém um sistema completo para gerenciamento de posts, compo
 - **Banco de Dados**: PostgreSQL
 - **Containerização**: Docker e Docker Compose
 
-## Documentação completa front e back
 ## 📚 Documentação completa front e back
 
 - [🖥️ Frontend](https://github.com/MonicaAlvesP/infraConnect-frontend/blob/1d125ca51fa50d1023a4b93bc46538a278d26355/README.md)
